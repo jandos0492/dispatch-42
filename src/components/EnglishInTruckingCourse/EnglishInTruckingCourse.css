@@ -1,0 +1,45 @@
+.english-in-trucking-course {
+    padding: 20px;
+    margin: 10px;
+}
+
+.section {
+    margin-bottom: 10px;
+}
+
+.section-header {
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 20px;
+}
+
+.lesson-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.lesson-item {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.active-lesson .lesson-item {
+    background-color: #21fd58;
+    border-color: #888;
+}
+
+.list {
+    border: 1px solid black;
+}
+
+.english-in-trucking-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.section-flex {
+    display: flex;
+}

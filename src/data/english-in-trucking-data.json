@@ -3,6 +3,7 @@
         "mainLink": "Section 1",
         "subLink": [
             {
+                "link": "section-1/lesson-1",
                 "name": "Lesson 1",
                 "header": "Lesson 1",
                 "text1": "ABBS & TERMS used in Dispatching",

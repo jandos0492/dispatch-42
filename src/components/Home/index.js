@@ -7,10 +7,10 @@ const Home = () => {
         <div className="home-page-container">
             <div className="home-container">
                 <div className="section">
-                    <Link to="english-in-tracking">
+                    <Link to="english-in-trucking">
                         <img
                             src="https://static.ecoach.com/upload/12310/image/583bd3f1-7845-413d-9687-00479c3d24e5.png"
-                            alt="english in tracking"
+                            alt="english in trucking"
                             className="big-image"
                         />
                         <p>English in tracking</p>
