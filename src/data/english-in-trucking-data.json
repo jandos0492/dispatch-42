@@ -1,0 +1,115 @@
+[
+    {
+        "mainLink": "Section 1",
+        "subLink": [
+            {
+                "name": "Lesson 1",
+                "header": "Lesson 1",
+                "text1": "ABBS & TERMS used in Dispatching",
+                "text2": "An insight of the abbreviations and termnilogy used in the dispatching industry.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-1/lesson-1.mov"
+            },
+            {
+                "name": "Lesson 2",
+                "header": "Lesson 2",
+                "text1": "Parties involved on a load in Dispatching",
+                "text2": "Terms on the parties involved on a load and their co-relation.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-1/lesson-2.mov"
+            },
+            {
+                "name": "Lesson 3",
+                "header": "Lesson 3",
+                "text1": "Location & Time Terms",
+                "text2": "Most practical Location and Time Terminologies.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section1/lesson-3.mov"
+            },
+            {
+                "name": "Lesson 4",
+                "header": "Lesson 4",
+                "text1": "Distance & road terms",
+                "text2": "Most practical Distance and Road Terminologies.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-1/lesson-4.mov"
+            },
+            {
+                "name": "Lesson 5",
+                "header": "Lesson 5",
+                "text1": "Freights & Compensations",
+                "text2": "Most practical Freight types, compensations and most frequent problems like OS&Ds.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-1/lesson-5.mov"
+            }
+        ]
+    },
+    {
+        "mainLink": "Section 2",
+        "subLink": [
+                        {
+                "name": "Lesson 1",
+                "header": "Lesson 1",
+                "text1": "Getting to know the driver.",
+                "text2": "An insight on the questions and tone of speech used to build the right connection with the driver.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-2/lesson-1.mov"
+            },
+            {
+                "name": "Lesson 2",
+                "header": "Lesson 2",
+                "text1": "Booking a load",
+                "text2": "The actions taken when involved in booking the load.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-2/lesson-2.mov"
+            },
+            {
+                "name": "Lesson 3",
+                "header": "Lesson 3",
+                "text1": "Checking with the driver about the load.",
+                "text2": "Checking and informing the driver regarding the load and start rolling.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section2/lesson-3.mov"
+            },
+            {
+                "name": "Lesson 4",
+                "header": "Lesson 4",
+                "text1": "Arriving at the PU.",
+                "text2": "Situations and actions taken when arriving at the pickup facility.",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-2/lesson-4.mov"
+            },
+            {
+                "name": "Lesson 5",
+                "header": "Lesson 5",
+                "text1": "Situations and actions taken when arriving at the delivery facility.",
+                "text2": "",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/section-2/lesson-5.mov"
+            }
+        ]
+    },
+    {
+        "mainLink": "Bonus",
+        "subLink": [
+            {
+                "name": "Trouble with the GPS adress",
+                "header": "Trouble with the GPS adress",
+                "text1": "",
+                "text2": "",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/bonus/trouble-with-the-gps-address.mov"
+            },
+            {
+                "name": "Relationship with the driver",
+                "header": "Relationship with the driver",
+                "text1": "",
+                "text2": "",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/bonus/relationship-with-the-driver.mov"
+            },
+            {
+                "name": "Load refusal by the driver",
+                "header": "Load refusal by the driver",
+                "text1": "",
+                "text2": "",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/bonus/load-refusal-by-the-driver.mov"
+            },
+            {
+                "name": "Bribing when in queue",
+                "header": "Bribing when in queue",
+                "text1": "",
+                "text2": "",
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/english-in-trucking/bonus/bribing-when-in-queue.mov"
+            }
+        ]
+    }
+]
