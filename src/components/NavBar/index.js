@@ -65,20 +65,9 @@ const NavBar = () => {
                         <button className="hamburger-menu" onClick={toggleMenu}>
                             <i className="fas fa-bars"></i>
                         </button>
-                        {isMenuOpen && (
-                            <nav className="mobile-nav">
-                                <Link to="/library" className="link" onClick={toggleMenu}>
-                                    Library
-                                </Link>
-                            </nav>
-                        )}
                     </div>
                 ) : (
-                    <nav>
-                        <Link to="/library" className="link">
-                            Library
-                        </Link>
-                    </nav>
+                    null
                 )}
             </div>
         </header>

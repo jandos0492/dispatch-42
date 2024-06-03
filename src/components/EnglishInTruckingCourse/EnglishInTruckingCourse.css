@@ -1,45 +1,76 @@
-.english-in-trucking-course {
+.english-in-trucking-course-flex {
+    display: flex;
     padding: 20px;
     margin: 10px;
+    background-color: #f9f9f9;
+    height: 100vh;
 }
 
-.section {
-    margin-bottom: 10px;
+.english-in-trucking-course-link {
+    width: 20%;
+    border-right: 1px solid #ccc;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.english-in-trucking-course-details {
+    flex-grow: 1;
 }
 
 .section-header {
+    display: flex;
+    flex-direction: column;
     cursor: pointer;
     font-weight: bold;
     margin-bottom: 5px;
-    margin: 20px;
+}
+
+.section-header>div {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.section-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-content-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-links {
+    padding-left: 20px;
 }
 
 .lesson-item {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    color: black;
+    display: inline-block;
+    font-size: 18px;
 }
 
-.lesson-item {
-    margin-top: 20px;
-    font-weight: bold;
-}
-
-.active-lesson .lesson-item {
-    background-color: #21fd58;
+.lesson-item.active {
+    background-color: #f0f0f0;
     border-color: #888;
-}
-
-.list {
-    border: 1px solid black;
 }
 
 .english-in-trucking-link {
     text-decoration: none;
-    color: inherit;
 }
 
-.section-flex {
-    display: flex;
+.active-lesson .lesson-item {
+    background-color: #21fd58;
+}
+
+.video {
+    width: 700px;
+    border-radius: 20px;
 }
