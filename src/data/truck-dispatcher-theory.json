@@ -1,0 +1,151 @@
+[
+    {
+        "mainLink": "Module 1. Welcome video",
+        "subLink": [
+            {
+                "route": "truck-dispatcher-theory-module-1-welcome-video-intro",
+                "name": "Intro",
+                "text": [
+                    "Welcome dear student!",
+                    "Congratulations on joining our course, very soon you will be able to fill the ranks of dispatchers and work independently with trucks on the US freight market.",
+                    "In order for this to happen, you need to understand what the dispatcher's job is, how it happens, what information you need to know and how to improve in this.",
+                    "Therefore, try to be attentive to details in the process of studying and if you find something unclear, just take a step back and go through  the learning material again."
+                ],
+                "linkContent": {
+                    "type": "link",
+                    "text": "Vocabulary",
+                    "url": "https://docs.google.com/spreadsheets/d/1Pc-F0eP5juj6ZtKWSDyddyiXKUQcD-ulm70RYTKCEQI/edit#gid=926879490"
+                },
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-1-welcome-video/intro.mov"
+            },
+            {
+                "route": "truck-dispatcher-theory-module-1-welcome-video-truck-dispatcher-a-z",
+                "name": "Truck Dispatcher A-Z",
+                "text": [
+                    "In this video, we are going to run through all the processes in its logical order.\nYou are going to hear a lot of new words and terms, but it’s all good, don’t be afraid, during the course we will analyze in detail what is what and why.",
+                    "Just grab yourself some popcorn and enjoy."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-1-welcome-video/truck-dispatcher-a-z.mov"
+            }
+        ]
+    },
+    {
+        "mainLink": "Module 2. Introduction in Logistics",
+        "subLink": [
+            {
+                "route": "truck-dispatcher-theory-module-2-introduction-in-logistics-lesson-1",
+                "name": "Lesson 1. Introduction in logistics",
+                "text": [
+                    "Logistics is the science of planning, controlling and managing transportation, warehousing and other material and non-material operations performed in the process of bringing raw materials and materials to the production enterprise, in-plant processing of raw materials, materials and semifinished products, bringing finished products to the consumer in accordance with the interests and requirements of the latter, transferring, storing and processing relevant information",
+                    "To put it simply, the essence of logistics is to find ways to rationally promote a product along the chain: from the manufacturer to the final recipient."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-2-introduction-in-logistics/lesson-1-introduction-in-logistics.mov"
+            }
+        ]
+    },
+    {
+        "mainLink": "Module 3. Parties of the Business - Carrier",
+        "subLink": [
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-1",
+                "name": "Lesson 1. Carrier Side - Motor Carrier",
+                "text": [
+                    "In order to learn how everything works, you need to understand who the players are, what are their main priorities and fears, and how the Dispatcher interacts with them. After studying all these elements together, we will be able to gather a complete picture of everything and put ourselves in more details.",
+                    "So, who are we working with, as Dispatchers?"
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-1-carrier-side-motor-carrier.mov"
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-2",
+                "name": "Lesson 2. Carrier Side - MC Employees Driver",
+                "text": [
+                    "In the trucking business, as a result, everything rests on the driver, and while the driver operates the truck and transports the freight, all participants of the logistics chain make money. Therefore, absolutely everyone is interested in the process of work going on and not stopping, preferably also without incidents.",
+                    "Let's talk in more detail about the driver, what he is, how you can become a driver and what difficulties this person overcomes in this work every day."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-2-carrier-side-mc-employees-driver.mov"
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-3",
+                "name": "Lesson 3. Carrier Side - MC Employees Dispatcher",
+                "text": [
+                    "The dispatcher represents Carrier, his client or employer, depending on whether the dispatcher is a third-party company providing dispatch services or an employee.",
+                    "The dispatcher can also be the Owner of the company, if it is his will, one way or another the Dispatcher is the main responsible for searching loads, as well as monitoring their implementation. It is he who decides what kind of load to take and is responsible for all the consequences arising from this.",
+                    "In fact, he is a full-fledged delegate, a trustee of the owner of the transport company, who performs his part of the duties of providing the company with income and the most efficient use of its resources."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-3-carrier-side-mc-employees-dispatcher.mov"
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-4",
+                "name": "Lesson 4. Carrier Side - MC Employees Accounting",
+                "text": [
+                    "Accounting is one of the most important areas of activity that successful carriers should use to their advantage. The details of invoice entries are a big responsibility. Records of receipts, invoices, reports that relate to the carrier’s business - are just a few of the responsibilities of the accounting department.",
+                    "Before accounting starts working with one of the carriers, the contract will contain all its tasks, which must be carefully read."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-4-carrier-side-mc-employees-accounting.mov"
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-5",
+                "name": "Lesson 5. Carrier Side - MC Employees Safety Manager",
+                "text": [
+                    "Safety Manager is a Carrier employee who monitors the safety of movement of the entire fleet, compliance with government regulatory requirements and manages processes to ensure the safety of both employees and the company."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-5-carrier-side-mc-employees-safety-manager.mov",
+                "underVideoText": [
+                    "Safety manager - Transportation safety managers are responsible for making sure that the truck drivers and the whole trucking company follow all laws and regulations regarding truck transportation, such as Federal Motor Carrier Safety Regulations.",
+                    "CSA - CSA stands for Compliance, Safety, Accountability. It is the safety compliance and enforcement program of the Federal Motor Carrier Safety Administration (FMCSA) that holds motor carriers and drivers accountable for their role in safety.",
+                    "Safety Score - A safety rating is a publicly accessible and up-to-date record of a driver or trucking company’s safe driving and conduct. It is evaluated by the FMCSA, operating under the DOT. Trucking companies and drivers will receive one of three potential safety ratings: Satisfactory, Conditional or Unsatisfactory.",
+                    "ELD - An Electronic Logging Device (ELD or E-Log) is a piece of electronic hardware attached to a commercial motor vehicle engine to record driving hours."
+                ]
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-6",
+                "name": "Lesson 6. Insurance",
+                "text": [
+                    "Insurance - a relationship (between the policyholder and the insurer) to protect the property interests of individuals and legal entities (policyholders) in the event of certain events (insured events) at the expense of monetary funds (insurance funds) formed from the insurance premiums paid by them (insurance premiums). In simple words, Insurance assumes liability for damages in case of trouble."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-6-insurance.mov",
+                "underVideoText": [
+                    "Insurance - Commercial trucking insurance is important coverage for an owner-operator or small business providing trucking services. Your insurance options will differ depending on the type of truck your drivers’ are driving, the goods they’re carrying, their number of years’ experience and the risks incurred.",
+                    "Automobile liability - As mentioned, you are required by federal regulations to have this insurance coverage. Every one of your trucks, including leased units, must carry commercial auto insurance. Liability insurance will provide you with protection when a third party becomes injured from an accident.",
+                    "General Liability - Every state requires general liability coverage. It protects you if one of your drivers causes property damage or bodily damage because of a crash. It covers a driver’s actions who is operating on another person’s premises, like truck stops or loading docks. It also includes load delivery mistakes.",
+                    "Cargo insurance - This coverage provides you with protection if the cargo on one of your commercial trucks is lost or damaged.",
+                    "Policy - An insurance policy is essentially a contract between you and your insurance company – it lays out what's covered, what isn't, and other details of your agreement.",
+                    "Coverage limits - A limit is the highest amount your insurer will pay for a claim that your insurance policy covers. ... If you file a covered claim, your insurance policy will pay up to a certain amount. You're responsible for any expenses that exceed the limit.",
+                    "COI - abbreviation for Certificate of Insurance."
+                ]
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-7",
+                "name": "Lesson 7. Factoring",
+                "text": [
+                    "Factoring is a financial organization that “buys” from Carrier an invoice for payment, which the broker must pay. Pays Carrier within 1-3 days, deducting 1% -3% for its services, and then waits until the broker pays the full amount, but not to Carrier, but to its - Factoring."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-7-factoring.mov",
+                "underVideoText": [
+                    "Factoring - Factoring is when a factoring company purchases your open invoices. You usually receive payment for those invoices within 24 hours. The factoring company then collects payment on those invoices from your customers. Factoring is sometimes referred to as accounts receivable financing.",
+                    "Recourse - If your customer fails to pay their invoice to the factor, you must pay back the recourse factoring company for the amount advanced. While this adds risk for you, recourse factors offer lower fees.",
+                    "Non-recourse - Non-Recourse: In non-recourse factoring, if your customer fails to pay their invoice to the factor, the factor assumes responsibility for the loss, not your business. This is lower risk for you, but generally comes with higher factoring fees.",
+                    "NOA - The notice of assignment (NOA) informs your customer that a third party (bank, financing company, or factoring company) will manage and collect your accounts receivable (AR) going forward"
+                ]
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-8",
+                "name": "Lesson 8. MC Earnings and expenses",
+                "text": [
+                    "So we have discussed all the participants in the process on the Carriers’ side, now let's see what Expenses MC Owner has. This will help us in future to weigh up the loads correctly. You can get back again to this lesson later, when the whole process of work will be studied."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-8-mc-earnings-and-expenses.mov"
+            },
+            {
+                "route": "truck-dispatcher-theory-module-3-lesson-9",
+                "name": "Lesson 9. Carrier Packet",
+                "text": [
+                    "Now that we are familiar with all the participants of the Carrier's side, we will consider the documents themselves that the Carrier possesses, namely those that the dispatcher will need in his work.",
+                    "In the course of work, when the dispatcher decides that he is taking the load from the broker, the process of exchanging documents between the two companies begins, Carrier and Broker (if these companies have previously worked together, then this step is skipped). \nThis process is called Setup.",
+                    "When setting up, usually the broker sends a package of his documents to the dispatcher. The dispatcher signs the necessary papers and sends them to the broker. In addition, he also sends a package of his documents, which is called the Carrier Packet."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3.0-theory/module-3-parties-of-the-business-carrier/lesson-9-carrier-packet.mov"
+            }
+        ]
+    }
+]
