@@ -27,7 +27,7 @@ const Home = () => {
                     </Link>
                 </div>
                 <div className="section">
-                    <Link to="truck-dispatcher-trailer-type-peculiarities">
+                    <Link to="truck-dispatcher-trailer-type">
                         <img
                             src="https://static.ecoach.com/upload/12310/image/80089c49-f8c0-4546-b2c5-2cafd826e550.jpg"
                             alt="truck dispatcher trailer type peculiarities"
