@@ -8,7 +8,7 @@ const Section = ({ sectionData, isExpanded, onClick }) => {
     return (
         <div className="section-flex">
             <div className="section-header">
-                <div onClick={onClick} >
+                <div className="section-header-text" onClick={onClick} >
                     {mainLink}
                 </div>
                 {isExpanded && (
