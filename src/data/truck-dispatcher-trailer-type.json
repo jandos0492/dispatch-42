@@ -1,0 +1,55 @@
+[
+    {
+        "mainLink": "Advanced module",
+        "subLink": [
+            {
+                "route": "truck-dispatcher-trailer-type-flatbed-stepdeck",
+                "name": "Flatbed/Stepdeck",
+                "text": [
+                    "Flatbed trailers are designed to transport heavy loads, bulky goods, industrial and machine equipment, as well as raw materials.",
+                    "Thanks to their open sides and top design, flatbeds are great for loading large loads that won't fit through the Dry Van's doors.",
+                    "At its core, Flatbed is the same Dry Van, only without walls, ceiling and doors.",
+                    "Stepdecks are essentially flatbeds, with a step lowering the height of the platform. The platform itself is called a Deck, and the part where it drops or the step itself is called a Drop."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3-(constructor)-trailer-type-peculiarities/advanced-module/flatbed-stepdeck.mov"
+            },
+            {
+                "route": "truck-dispatcher-trailer-type-dry-van-trailer",
+                "name": "Dry Van Trailer",
+                "text": [
+                    "Dry Van is the most common type of trailer in the US trucking market.",
+                    "This is true because, for the most part, Dry Vans are used to transport items that people are using daily.",
+                    "Some of the world's largest corporations, including Walmart, Target and Procter & Gamble, use DryVans to transport their goods. Inventories such as clothing, non-perishable food and household goods are usually transported using this type of trailer.",
+                    "Because of their box shape and the ability to drive straight into the loading dock, these trailers are the ideal piece of equipment for any shipper/receiver. Has no temperature control."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3-(constructor)-trailer-type-peculiarities/advanced-module/dry-van-trailer.mov"
+            },
+            {
+                "route": "truck-dispatcher-trailer-type-power-only-trailer",
+                "name": "Power Only Trailer",
+                "text": [
+                    "If you have a Power Only Truck, then you must be an optimist who’s in the constant search for trailers!",
+                    "Power Only, is also referred to as “Bob Tail” - which means that the truck rides without a trailer.",
+                    "Being without a trailer, it’s impossible to transport goods.",
+                    "Either way, you need a trailer to make money.",
+                    "You can find yourself a trailer right on the Loadbrod, and you have only 3 possible options to choose from:",
+                    "–Tow Away Trailer",
+                    "–Loadout Trailer",
+                    "–Preloaded Trailer (Drop And Hook)",
+                    "Let's look into each of them separately."
+                ],
+                "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3-(constructor)-trailer-type-peculiarities/advanced-module/power-only-trailer.mov"
+            },
+            {
+               "route": "truck-dispatcher-trailer-type-reefer-trailer",
+               "name": "Reefer Trailer",
+               "text": [
+                "What is a Reefer trailer",
+                "The refrigerated trailer, or the Reefer, is designed to transport perishable products that need temperature control.",
+                "With the help of the Reefer Unit, a massive refrigeration unit at the nose of the trailer, the temperature inside is maintained at the set values and thus the products reach their final destination fresh."
+               ],
+               "videoUrl": "https://dispatch-42.s3.us-east-2.amazonaws.com/truck-dispatcher-3-(constructor)-trailer-type-peculiarities/advanced-module/reefer-trailer.mov"
+            }
+        ]
+    }
+]
