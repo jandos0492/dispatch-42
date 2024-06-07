@@ -15,6 +15,7 @@
 
 .english-in-trucking-course-details {
     flex-grow: 1;
+    width: 75%;
 }
 
 .section-header {
@@ -174,10 +175,6 @@
         font-size: 1.5em;
     }
 
-    /* .section-content-flex {
-        align-items: start;
-    } */
-
 }
 
 @media screen and (max-width: 800px) {
@@ -256,6 +253,10 @@
         width: 35%;
     }
 
+    .english-in-trucking-course-details {
+        width: 65%;
+    }
+
     .lesson-item {
         font-size: 10px;
         width: 100%;
@@ -310,5 +311,5 @@
         margin: 10px 0;
     }
 
-    
+
 }
