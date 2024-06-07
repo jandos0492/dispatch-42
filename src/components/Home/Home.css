@@ -52,13 +52,21 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 700px) {
     .section img {
-        width: 150px;
-        height: 120px;
+        width: 170px;
+        height: 110px;
     }
 
-    .section>a>p{
+    .home-container {
+        gap: 200px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+
+    .section>a>p {
         font-size: 14px;
     }
 
