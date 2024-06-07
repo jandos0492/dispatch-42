@@ -33,7 +33,7 @@ const Home = () => {
                             alt="truck dispatcher trailer type peculiarities"
                             className="big-image"
                         />
-                        <p>Truck Dispatcher 3.0 - (Constructor) Trailer Type Peculiarities</p>
+                        <p>Truck Dispatcher 3.0 - Trailer Type</p>
                     </Link>
                 </div>
             </div>
