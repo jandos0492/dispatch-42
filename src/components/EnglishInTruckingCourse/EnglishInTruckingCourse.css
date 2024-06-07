@@ -174,9 +174,9 @@
         font-size: 1.5em;
     }
 
-    .section-content-flex {
+    /* .section-content-flex {
         align-items: start;
-    }
+    } */
 
 }
 
@@ -194,7 +194,6 @@
         max-width: 70%;
     }
 
-    /* 7 */
 }
 
 
@@ -213,7 +212,6 @@
     }
 
     .section-content-flex h1 {
-        /* text-align: left; */
         padding-left: 20px;
         font-size: 1.2em;
     }
