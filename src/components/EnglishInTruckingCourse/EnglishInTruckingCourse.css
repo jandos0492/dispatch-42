@@ -194,9 +194,7 @@
         max-width: 70%;
     }
 
-    .section-content-flex h1 {
-        text-align: left;
-    }
+    /* 7 */
 }
 
 
@@ -215,7 +213,7 @@
     }
 
     .section-content-flex h1 {
-        text-align: left;
+        /* text-align: left; */
         padding-left: 20px;
         font-size: 1.2em;
     }
@@ -257,7 +255,7 @@
     }
 
     .english-in-trucking-course-link {
-        width: 30%;
+        width: 35%;
     }
 
     .lesson-item {
@@ -293,8 +291,8 @@
     }
 
     .lesson-item {
-        font-size: 8px;
-        padding: 5px;
+        font-size: 7px;
+        padding: 4px;
     }
 
     .english-in-trucking-course-flex {
