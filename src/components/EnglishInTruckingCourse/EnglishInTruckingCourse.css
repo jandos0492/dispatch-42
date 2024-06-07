@@ -182,15 +182,6 @@
         font-size: 18px;
     }
 
-    .text1,
-    .text2 {
-        max-width: 70%;
-    }
-
-    .video {
-        max-width: 70%;
-    }
-
 }
 
 
@@ -199,14 +190,6 @@
         font-size: 16px;
     }
 
-    .text1,
-    .text2 {
-        max-width: 65%;
-    }
-
-    .video {
-        max-width: 65%;
-    }
 
     .section-content-flex h1 {
         padding-left: 20px;
@@ -221,15 +204,6 @@
         font-size: 14px;
     }
 
-    .text1,
-    .text2 {
-        max-width: 60%;
-    }
-
-    .video {
-        max-width: 60%;
-    }
-
     .section-content-flex h1 {
         font-size: 1em;
     }
@@ -239,7 +213,21 @@
     }
 
     .section-content-flex {
-        max-width: 650px;
+        max-width: 900px;
+        padding: 0;
+    }
+
+    .text1 p {
+        margin: 0;
+        padding: 0;
+    }
+
+    .text1 {
+        margin-bottom: 10px;
+    }
+
+    .video {
+        margin: 0;
     }
 }
 
@@ -253,6 +241,10 @@
         width: 35%;
     }
 
+    .section-content-flex h1 {
+        font-size: 0.8em;
+    }
+
     .english-in-trucking-course-details {
         width: 65%;
     }
@@ -263,11 +255,7 @@
     }
 
     .section-content-flex {
-        max-width: 550px;
-    }
-
-    .section-content-flex h1 {
-        font-size: 0.8em;
+        max-width: 800px;
     }
 
     .english-in-trucking-course-details {
@@ -276,7 +264,7 @@
 
     .text1 p,
     .text2 p {
-        font-size: 8px;
+        font-size: 9px;
     }
 
     .text2 {
@@ -296,15 +284,6 @@
 
     .english-in-trucking-course-flex {
         padding: 0;
-    }
-
-    .section-content-flex {
-        max-width: 400px;
-        padding: 0;
-    }
-
-    .section-content-flex h1 {
-        font-size: 0.6em;
     }
 
     .section-header {
