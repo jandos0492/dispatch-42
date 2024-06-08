@@ -16,6 +16,7 @@
 .section-image {
     border-radius: 10px;
     width: 300px;
+    margin-top: 50px;
 }
 
 .english-in-trucking-course-details {
@@ -157,6 +158,10 @@
         font-size: 12px;
     }
 
+    .section-image {
+        width: 200px;
+    }
+
     .section-header-text {
         font-size: 16px;
     }
@@ -174,6 +179,10 @@
 
     .video {
         max-width: 90%;
+    }
+
+    .section-image {
+        width: 150px;
     }
 
     .section-content-flex>h1 {
@@ -199,6 +208,12 @@
     .section-content-flex h1 {
         padding-left: 20px;
         font-size: 1.2em;
+    }
+
+    .section-image {
+        width: 120px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 
@@ -293,6 +308,10 @@
 
     .section-header {
         margin: 10px 0;
+    }
+
+    .section-image {
+        width: 100px;
     }
 
 
