@@ -17,7 +17,7 @@ const TruckDispatcherTheoryCourse = () => {
     return (
         <div className="english-in-trucking-course-flex">
             <div className="english-in-trucking-course-link">
-                <img src="https://static.ecoach.com/upload/12310/image/c9e3465a-3bd4-45d3-8be1-a7513bd806de.jpg"
+                <img src="https://dispatch-42.s3.us-east-2.amazonaws.com/images/truck-dispatcher-theory-image.jpg"
                     alt="truck dispatcher theory" className="section-image" />
                 {pathStartsWithEnglishInTrucking && (
                     sections.map((section, index) => (
