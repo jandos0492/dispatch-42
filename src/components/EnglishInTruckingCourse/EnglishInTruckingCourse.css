@@ -59,12 +59,17 @@
 }
 
 .section-content-flex h1,
-.section-content-flex p,
 .section-content-flex video {
     width: 100%;
     text-align: center;
     box-sizing: border-box;
     margin: 10px 0;
+}
+
+.section-content-flex p {
+    margin: 10px 0;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .section-content-flex p {
@@ -280,6 +285,7 @@
     }
 
     .english-in-trucking-course-details {
+        margin-top: 10px;
         width: 65%;
     }
 
@@ -296,9 +302,9 @@
         padding: 0;
     }
 
-    .text1 p,
-    .text2 p {
-        font-size: 9px;
+    p {
+        font-size: 9px !important;
+        margin: 3px 0 !important;
     }
 
     .text2 {
@@ -327,6 +333,5 @@
     .section-image {
         width: 100px;
     }
-
 
 }
