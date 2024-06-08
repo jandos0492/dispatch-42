@@ -18,6 +18,8 @@ const EnglishInTruckingCourse = () => {
     return (
         <div className="english-in-trucking-course-flex">
             <div className="english-in-trucking-course-link">
+                <img src="https://static.ecoach.com/upload/12310/image/583bd3f1-7845-413d-9687-00479c3d24e5.png"
+                    alt="english in trucking" className="section-image" />
                 {pathStartsWithEnglishInTrucking && (
                     sections.map((section, index) => (
                         <Section

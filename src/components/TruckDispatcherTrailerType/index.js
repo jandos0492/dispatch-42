@@ -17,6 +17,8 @@ const TruckDispatcherTrailerType = () => {
     return (
         <div className="english-in-trucking-course-flex">
             <div className="english-in-trucking-course-link">
+                <img src="https://static.ecoach.com/upload/12310/image/80089c49-f8c0-4546-b2c5-2cafd826e550.jpg"
+                    alt="truck dispathcer trailer type" className="section-image" />
                 {pathStartsWithTruckDispatcherTrailerType && (
                     sections.map((section, index) => (
                         <Section
