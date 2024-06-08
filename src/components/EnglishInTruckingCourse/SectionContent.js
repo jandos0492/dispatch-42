@@ -5,10 +5,10 @@ const SectionContent = ({ header, text1, text2, videoUrl }) => {
         <div className="section-content-flex">
             <h1>{header}</h1>
             {text1 && (
-                <p>{text1}</p>
+                <p className="text1">{text1}</p>
             )}
             {text2 && (
-                <p>{text2}</p>
+                <p className="text1">{text2}</p>
             )}
             <video
                 key={videoUrl}
